@@ -1,6 +1,6 @@
 # Profile
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ryzertron&theme=gotham&hide_border=true) <br>
-![](https://github-readme-stats.vercel.app/api?username=Ryzertron&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact) <br/>
+![](https://github-readme-stats.vercel.app/api?username=Ryzertron&include_all_commits=true&count_private=true&theme=gotham&hide_border=true) <br/>
 ## About
 
 👋 Hello, my fellow explorers and coding fans!, an ardor driven Computer Science Engineer on a mission to unlock the secrets of the digital universe. 🌐
