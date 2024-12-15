@@ -1,5 +1,5 @@
 # Profile
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ryzertron&theme=gotham&hide_border=true) <br>
+![](https://github-readme-stats-gokulkrishna-vs-projects.vercel.app?user=Ryzertron&theme=gotham&hide_border=true) <br>
 ![](https://github-readme-stats.vercel.app/api?username=Ryzertron&include_all_commits=true&theme=gotham&hide_border=true) <br/>
 ## About
 
